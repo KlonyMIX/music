@@ -1882,30 +1882,3 @@ body {
     font-size: 4.25rem;
   }
 }
-.cid-qOsSVkwXwu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qOsSVkwXwu .title {
-  margin-bottom: 2rem;
-}
-.cid-qOsSVkwXwu .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qOsSVkwXwu a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qOsSVkwXwu a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qOsSVkwXwu .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qOsSVkwXwu .input-group-btn {
-  display: block;
-  text-align: center;
-}
